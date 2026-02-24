@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ## Overview
-A command-line number guessing game built in Python. The program generates a random number and prompts the user to guess until the correct number is entered.
+A command-line number guessing game built in C. The program generates a random number and prompts the user to guess until the correct number is entered.
 
 ## Features
 - Random number generation
@@ -10,7 +10,7 @@ A command-line number guessing game built in Python. The program generates a ran
 - User feedback for high/low guesses
 
 ## Technologies Used
-- Python 3
+- C
 
 ## How to Run
 1. Clone the repository:
@@ -20,7 +20,7 @@ A command-line number guessing game built in Python. The program generates a ran
    cd number-guessing-game
 
 3. Run the program:
-   python guessing_game.py
+ C guessing_game.c
 
 ## Learning Objectives
 This project demonstrates:
